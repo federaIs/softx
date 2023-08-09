@@ -18,7 +18,7 @@
 
 :root {
 	/* SoftX variables */
-	--background-image: url('https://thumbs.gfycat.com/AdorableLonelyKilldeer-size_restricted.gif'); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+	--background-image: url('https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Vzd3ZvZG55cmF1ZzA5ZG5qNTQ0Mzg2dDZrbzF2b2k0cWprMHhsNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Q34Q46x7bUUKJfbn0s/giphy.gif'); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
 	--background-blur: 0px; /* Blur intensity of --background-image | Must end in px | Default: 0px */
 
 	--accent: 89, 0, 231; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
