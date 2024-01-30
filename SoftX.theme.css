@@ -18,7 +18,7 @@
 
 :root {
 	/* SoftX variables */
-	--background-image: url('https://thumbs.gfycat.com/AdorableLonelyKilldeer-size_restricted.gif'); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+	--background-image: url('https://i.pinimg.com/originals/57/67/f3/5767f31a76b530945ced1baa6fd97204.gif'); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
 	--background-blur: 0px; /* Blur intensity of --background-image | Must end in px | Default: 0px */
 
 	--accent: 89, 0, 231; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
